@@ -1,0 +1,33 @@
+h2{
+    width: 100%;
+    padding: 20px;
+    margin: 0px;
+
+}
+
+span{
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+#song{
+
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    
+}
+
+canvas{
+    box-shadow: 30px,grey;
+}
+
+
+
